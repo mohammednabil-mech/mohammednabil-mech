@@ -81,6 +81,7 @@ Full write-ups, images, and project reports: **[al-da-ari-portfolio.web.app](htt
 ## Education
 
 **BSc Mechatronics Engineering**, University of Engineering & Technology (UET), Peshawar, Pakistan
+
 Relevant coursework: Control Systems, Mechatronics System Design, Power Electronics, Numerical Methods
 
 ---
@@ -97,7 +98,9 @@ Relevant coursework: Control Systems, Mechatronics System Design, Power Electron
 ## Contact
 
 Email: mohammadnabilaldaari@gmail.com
+
 LinkedIn: [linkedin.com/in/mohammad-nabil-al-da-ari-636635358](https://www.linkedin.com/in/mohammad-nabil-al-da-ari-636635358)
+
 Portfolio: [al-da-ari-portfolio.web.app](https://al-da-ari-portfolio.web.app)
 
 References available on request.
