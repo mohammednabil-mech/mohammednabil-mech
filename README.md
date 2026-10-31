@@ -6,7 +6,13 @@
 
 Final-year BSc Mechatronics Engineering, University of Engineering & Technology (UET) Peshawar
 
-[Portfolio](https://al-da-ari-portfolio.web.app) · [LinkedIn](https://www.linkedin.com/in/mohammad-nabil-al-da-ari-636635358) · [Email](mailto:mohammadnabilaldaari@gmail.com)
+<a href="https://al-da-ari-portfolio.web.app"><img src="https://img.shields.io/badge/Portfolio-00B8A3?style=for-the-badge&logo=firebase&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/mohammad-nabil-al-da-ari-636635358"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:mohammadnabilaldaari@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=arduino,c,cpp,py,matlab,git,github,firebase,vscode&theme=dark" alt="Technologies"/>
 
 </div>
 
