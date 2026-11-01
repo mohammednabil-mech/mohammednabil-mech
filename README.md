@@ -24,7 +24,7 @@ Mechatronics engineer completing a BSc at UET Peshawar, with hands-on experience
 
 My strongest work is in autonomous robotics and control. I have built and tested a high-speed payload-carrying robot with measured performance targets, IoT automation systems, and analog control circuits. I document what I build and measure the results.
 
-**Open to** graduate engineering roles, internships, and research positions in robotics, embedded systems, automation, and control, including international relocation.
+Final-year Mechatronics Engineering student, open to internships, graduate opportunities, and research positions in robotics, embedded systems, automation, and control engineering, including international opportunities and relocation.
 
 ---
 
