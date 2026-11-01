@@ -44,8 +44,15 @@ My strongest work is in autonomous robotics and control. I have built and tested
 
 ## Selected Projects
 
+<table>
+<tr>
+<td>
+
 ### High-Speed Autonomous Payload Delivery Robot
-*Mechatronics System Design · Team project · Complete distinction*
+
+<img src="https://img.shields.io/badge/Team_Project-4B5563?style=flat-square" alt="Team Project"/> <img src="https://img.shields.io/badge/Complete_Distinction-00B8A3?style=flat-square" alt="Complete Distinction"/>
+
+<!-- Add a photo later: <img src="images/payload-robot.jpg" width="100%" alt="Payload delivery robot"/> -->
 
 Autonomous line-following robot that carries a 3 kg payload, detects a delivery station, releases the payload, and resumes navigation.
 
@@ -54,31 +61,58 @@ Autonomous line-following robot that carries a 3 kg payload, detects a delivery 
 - Controller parameters validated in MATLAB/Simulink before hardware tests
 - Dual-layer aluminium chassis, differential mid-drive for zero-radius turning
 
-| Speed | Payload | Line accuracy | Detection accuracy |
-|---|---|---|---|
-| 1.5 to 2 m/s | 3 kg | ±3 mm | > 95% |
+<img src="https://img.shields.io/badge/Speed-1.5_to_2_m%2Fs-00B8A3?style=flat-square" alt="Speed 1.5 to 2 m/s"/> <img src="https://img.shields.io/badge/Payload-3_kg-00B8A3?style=flat-square" alt="Payload 3 kg"/> <img src="https://img.shields.io/badge/Line_accuracy-%C2%B13_mm-00B8A3?style=flat-square" alt="Line accuracy ±3 mm"/> <img src="https://img.shields.io/badge/Detection-%3E95%25-00B8A3?style=flat-square" alt="Detection >95%"/>
 
-**Stack:** Arduino Nano · C++ · L298N · MG996R · MATLAB/Simulink
+<img src="https://img.shields.io/badge/Arduino_Nano-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino Nano"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/MATLAB_%2F_Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB / Simulink"/> <img src="https://img.shields.io/badge/L298N-4B5563?style=flat-square" alt="L298N"/> <img src="https://img.shields.io/badge/MG996R_Servo-4B5563?style=flat-square" alt="MG996R Servo"/>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
 
 ### Semi-Autonomous Pipeline Inspection Robot
-*Final Year Project*
+
+<img src="https://img.shields.io/badge/Final_Year_Project-00B8A3?style=flat-square" alt="Final Year Project"/>
+
+<!-- Add a photo later: <img src="images/pipeline-robot.jpg" width="100%" alt="Pipeline inspection robot"/> -->
 
 Wheeled inspection robot designed for operation inside pipelines.
 
-**Stack:** Embedded control · Sensors · Mechanical design
+<img src="https://img.shields.io/badge/Embedded_Control-4B5563?style=flat-square" alt="Embedded Control"/> <img src="https://img.shields.io/badge/Sensors-4B5563?style=flat-square" alt="Sensors"/> <img src="https://img.shields.io/badge/Mechanical_Design-4B5563?style=flat-square" alt="Mechanical Design"/>
 
-### IoT-Based Smart Home Automation System
-ESP32 platform that reads PIR, DHT22, and LDR sensors and automatically switches lights, fans, and motors against defined thresholds. Remote control over MQTT/Blynk, cloud logging to Firebase, and instant mobile alerts on motion detection.
+</td>
+</tr>
+</table>
 
-**Stack:** ESP32 · MQTT · Blynk · Firebase
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Dual-Axis Solar Tracking System
-Fully analog tracker: LDR sensor pair feeding an LM358 comparator drives the panel toward the light source in real time, with no microcontroller.
+### IoT Smart Home Automation
 
-**Stack:** LM358 · LDR · Analog control
+ESP32 platform that reads PIR, DHT22, and LDR sensors and switches lights, fans, and motors against defined thresholds. Remote control over MQTT/Blynk, cloud logging to Firebase, and instant mobile alerts on motion detection.
 
-### Additional Projects
-Linear cup stabilization (PID) · Color sorting system · Smart trash bin · Automatic door · MATLAB system modelling
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT"/> <img src="https://img.shields.io/badge/Firebase-F59E0B?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/> <img src="https://img.shields.io/badge/Blynk-4B5563?style=flat-square" alt="Blynk"/>
+
+</td>
+<td width="50%" valign="top">
+
+### Dual-Axis Solar Tracker
+
+Fully analog tracker: an LDR sensor pair feeding an LM358 comparator drives the panel toward the light source in real time, with no microcontroller.
+
+<img src="https://img.shields.io/badge/LM358-4B5563?style=flat-square" alt="LM358"/> <img src="https://img.shields.io/badge/LDR_Sensors-4B5563?style=flat-square" alt="LDR Sensors"/> <img src="https://img.shields.io/badge/Analog_Control-4B5563?style=flat-square" alt="Analog Control"/>
+
+</td>
+</tr>
+</table>
+
+**Additional projects**
+
+<img src="https://img.shields.io/badge/Linear_Cup_Stabilization_%28PID%29-4B5563?style=flat-square" alt="Linear Cup Stabilization (PID)"/> <img src="https://img.shields.io/badge/Color_Sorting_System-4B5563?style=flat-square" alt="Color Sorting System"/> <img src="https://img.shields.io/badge/Smart_Trash_Bin-4B5563?style=flat-square" alt="Smart Trash Bin"/> <img src="https://img.shields.io/badge/Automatic_Door-4B5563?style=flat-square" alt="Automatic Door"/> <img src="https://img.shields.io/badge/MATLAB_System_Modelling-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB System Modelling"/>
 
 Full write-ups, images, and project reports: **[al-da-ari-portfolio.web.app](https://al-da-ari-portfolio.web.app)**
 
